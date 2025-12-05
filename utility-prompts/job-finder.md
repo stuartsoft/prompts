@@ -1,4 +1,4 @@
-Attached is my resume. You are going to help me find job openings that fit my qualifications and experience.
+Here is my resume. You are going to help me find job openings that fit my qualifications and experience.
 
 Before searching for jobs, me the following questions:
 1) Where are you generally geographically looking for jobs?
